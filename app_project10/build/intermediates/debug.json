@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\raw_impov.mp3.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\raw\\impov.mp3"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\raw_night.mp3.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\raw\\night.mp3"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\raw_football.mp4.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\raw\\football.mp4"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_playlist_.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\layout\\fragment_playlist_.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\raw_cricket.mp4.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\raw\\cricket.mp4"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_video_.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\layout\\fragment_video_.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\layout_bottomsheetlayout.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\layout\\bottomsheetlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\raw_chimes.mp3.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\raw\\chimes.mp3"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_song_.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\layout\\fragment_song_.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\raw_tabletennis.mp4.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\raw\\tabletennis.mp4"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\layout_item_layout.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\manas\\AndroidStudioProjects\\project10\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
